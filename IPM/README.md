@@ -1,0 +1,2 @@
+# IPM
+IPM is for invasive plant management. This dataset includes observations of invasive plant locations, phenology and abundance. The dataset also includes a management log, or record of invasive plant treatments and associated effort in person-hours.
