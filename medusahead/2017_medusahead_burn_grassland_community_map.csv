@@ -1,0 +1,1473 @@
+Date,Sampler,Burn_Timing,UTME,UTMN,ELYCAP,DANCAL,STIPUL,Comment
+5/17/2017,MHalbur,Pretreatment,525400,4270440,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270440,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270440,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270440,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525370,4270430,3,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270430,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270430,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270430,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270430,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270430,5,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270430,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270430,2,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525360,4270420,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525370,4270420,1,2,0,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270420,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270420,4,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270420,5,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270420,6,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270420,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270420,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270420,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525340,4270410,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525350,4270410,2,2,0,NA
+5/17/2017,MHalbur,Pretreatment,525360,4270410,2,2,0,NA
+5/17/2017,MHalbur,Pretreatment,525370,4270410,2,1,1,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270410,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270410,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270410,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270410,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270410,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270410,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270410,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270400,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525160,4270400,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525310,4270400,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525320,4270400,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525330,4270400,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525340,4270400,2,1,0,NA
+5/17/2017,MHalbur,Pretreatment,525350,4270400,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525360,4270400,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525370,4270400,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270400,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270400,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270400,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270400,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270400,3,1,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270400,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270400,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270390,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270390,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270390,6,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270390,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270390,1,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270390,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270390,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270390,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270390,0,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270390,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270390,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270390,5,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270390,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525160,4270390,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525170,4270390,3,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525180,4270390,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525270,4270390,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525280,4270390,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525290,4270390,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525300,4270390,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525310,4270390,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525320,4270390,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525330,4270390,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525340,4270390,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525350,4270390,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525360,4270390,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525370,4270390,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270390,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270390,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270390,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270390,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270390,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270390,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270390,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270380,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270380,0,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270380,0,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270380,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270380,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270380,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270380,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270380,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270380,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270380,2,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270380,3,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270380,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270380,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525160,4270380,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525170,4270380,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525180,4270380,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270380,4,2,1,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270380,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525210,4270380,2,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525220,4270380,4,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525230,4270380,3,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525240,4270380,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525250,4270380,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525260,4270380,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525270,4270380,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525280,4270380,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525290,4270380,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525300,4270380,3,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525310,4270380,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525320,4270380,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525330,4270380,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525340,4270380,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525350,4270380,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525360,4270380,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525370,4270380,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270380,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270380,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270380,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270380,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270380,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270380,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270380,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270370,5,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270370,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270370,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270370,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270370,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270370,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270370,1,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270370,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270370,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270370,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270370,3,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270370,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525160,4270370,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525170,4270370,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525180,4270370,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270370,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270370,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525210,4270370,2,1,2,NA
+5/17/2017,MHalbur,Pretreatment,525220,4270370,6,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525230,4270370,4,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525240,4270370,4,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525250,4270370,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525260,4270370,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525270,4270370,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525280,4270370,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525290,4270370,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525300,4270370,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525310,4270370,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525320,4270370,4,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525330,4270370,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525340,4270370,3,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525350,4270370,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525360,4270370,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525370,4270370,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270370,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270370,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270370,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270370,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270370,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270370,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270370,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525450,4270370,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270360,5,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270360,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270360,6,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270360,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270360,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270360,1,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270360,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270360,2,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270360,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270360,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270360,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270360,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270360,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525160,4270360,2,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525170,4270360,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525180,4270360,5,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270360,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270360,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525210,4270360,2,1,1,NA
+5/17/2017,MHalbur,Pretreatment,525220,4270360,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525230,4270360,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525240,4270360,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525250,4270360,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525260,4270360,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525270,4270360,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525280,4270360,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525290,4270360,0,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525300,4270360,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525310,4270360,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525320,4270360,4,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525330,4270360,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525340,4270360,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525350,4270360,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525360,4270360,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525370,4270360,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270360,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270360,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270360,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270360,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270360,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270360,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270360,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525450,4270360,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270350,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270350,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270350,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270350,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270350,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270350,1,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270350,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270350,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270350,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270350,3,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270350,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270350,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270350,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525160,4270350,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525170,4270350,2,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525180,4270350,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270350,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270350,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525210,4270350,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525220,4270350,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525230,4270350,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525240,4270350,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525250,4270350,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525260,4270350,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525270,4270350,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525280,4270350,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525290,4270350,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525300,4270350,0,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525310,4270350,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525320,4270350,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525330,4270350,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525340,4270350,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525380,4270350,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525390,4270350,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525400,4270350,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525410,4270350,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270350,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270350,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270350,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525450,4270350,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270340,5,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270340,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270340,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270340,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270340,0,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270340,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270340,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270340,1,2,0,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270340,2,1,1,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270340,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270340,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270340,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270340,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525160,4270340,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525170,4270340,3,0,3,NA
+5/18/2017,MHalbur,Pretreatment,525180,4270340,3,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270340,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270340,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525210,4270340,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525220,4270340,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525230,4270340,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525240,4270340,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525250,4270340,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525260,4270340,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525270,4270340,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525280,4270340,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525290,4270340,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525300,4270340,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525310,4270340,0,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525320,4270340,0,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525330,4270340,0,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525420,4270340,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525430,4270340,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525440,4270340,2,0,4,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270330,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270330,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270330,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270330,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270330,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270330,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270330,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270330,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270330,3,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270330,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270330,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270330,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270330,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270330,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270330,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270330,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270330,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270330,0,1,0,NA
+5/17/2017,MHalbur,Pretreatment,525210,4270330,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525220,4270330,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525230,4270330,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525240,4270330,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525250,4270330,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525260,4270330,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525270,4270330,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525280,4270330,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525290,4270330,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525300,4270330,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270320,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270320,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270320,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270320,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270320,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270320,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270320,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270320,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270320,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270320,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270320,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270320,5,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270320,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270320,1,2,0,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270320,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270320,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270320,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270320,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525210,4270320,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525220,4270320,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525230,4270320,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525240,4270320,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525250,4270320,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525260,4270320,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270310,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270310,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270310,0,1,1,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270310,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270310,0,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270310,0,1,0,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270310,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270310,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270310,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270310,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270310,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270310,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270310,4,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270310,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270310,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270310,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270310,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270310,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525210,4270310,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525220,4270310,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270300,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270300,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270300,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270300,0,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270300,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270300,0,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270300,1,1,2,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270300,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270300,2,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270300,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270300,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270300,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270300,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270300,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270300,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270300,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270300,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270300,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270290,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270290,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270290,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270290,0,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270290,0,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270290,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270290,2,1,2,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270290,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525110,4270290,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525120,4270290,5,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525130,4270290,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525140,4270290,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525150,4270290,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270290,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270290,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270290,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270290,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270280,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270280,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270280,0,2,1,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270280,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270280,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270280,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270280,2,1,1,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270280,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270280,3,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270280,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270280,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270280,4,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270280,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270280,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270280,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270280,0,1,1,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270280,1,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270270,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270270,1,2,2,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270270,1,2,2,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270270,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270270,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270270,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270270,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270270,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270270,3,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270270,4,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270270,3,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270270,5,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270270,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270270,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270270,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270270,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270270,2,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270260,5,0,3,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270260,3,2,2,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270260,3,2,2,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270260,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270260,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270260,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270260,4,0,3,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270260,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270260,5,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270260,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270260,4,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270260,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270260,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270260,3,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270260,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270260,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270260,2,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270250,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270250,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270250,2,1,1,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270250,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270250,1,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270250,4,0,3,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270250,3,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270250,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270250,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270250,3,2,2,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270250,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270250,3,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270250,2,2,1,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270250,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270250,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270250,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270250,3,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270240,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270240,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270240,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270240,2,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270240,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270240,4,2,2,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270240,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270240,5,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270240,1,1,1,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270240,3,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270240,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270240,4,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270240,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270240,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270240,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270240,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270240,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525200,4270240,1,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270230,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270230,1,2,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270230,2,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270230,3,1,2,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270230,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270230,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270230,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270230,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270230,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270230,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270230,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270230,0,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270230,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270230,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270230,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270230,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270230,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270220,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270220,4,1,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270220,3,3,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270220,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270220,4,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270220,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270220,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270220,3,1,0,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270220,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270220,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270220,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270220,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270220,2,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270220,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270220,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270220,3,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525190,4270220,3,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270210,5,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270210,1,2,3,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270210,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270210,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270210,2,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270210,3,0,1,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270210,5,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270210,3,1,1,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270210,3,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270210,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270210,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270210,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270210,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270210,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270210,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270210,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525030,4270200,3,1,1,NA
+5/18/2017,MHalbur,Pretreatment,525040,4270200,1,5,0,NA
+5/18/2017,MHalbur,Pretreatment,525050,4270200,3,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525060,4270200,4,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525070,4270200,4,0,0,NA
+5/18/2017,MHalbur,Pretreatment,525080,4270200,1,0,2,NA
+5/18/2017,MHalbur,Pretreatment,525090,4270200,1,1,1,NA
+5/18/2017,MHalbur,Pretreatment,525100,4270200,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270200,1,2,1,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270200,4,2,3,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270200,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270200,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270200,3,3,1,NA
+5/17/2017,MHalbur,Pretreatment,525180,4270200,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525020,4270190,4,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525030,4270190,1,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525040,4270190,3,2,2,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270190,0,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270190,1,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270190,1,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270190,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270190,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270190,1,1,1,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270190,5,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270190,2,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270190,5,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270190,4,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270190,2,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525020,4270180,6,1,0,NA
+5/19/2017,MHalbur,Pretreatment,525030,4270180,4,1,2,NA
+5/19/2017,MHalbur,Pretreatment,525040,4270180,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270180,2,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270180,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270180,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270180,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270180,2,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270180,4,0,3,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270180,1,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270180,4,1,0,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270180,6,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270180,1,0,1,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270180,6,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270180,1,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270180,1,3,1,NA
+5/19/2017,MHalbur,Pretreatment,525020,4270170,4,4,0,NA
+5/19/2017,MHalbur,Pretreatment,525030,4270170,4,1,2,NA
+5/19/2017,MHalbur,Pretreatment,525040,4270170,4,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270170,2,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270170,1,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270170,1,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270170,4,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270170,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270170,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525110,4270170,3,0,2,NA
+5/17/2017,MHalbur,Pretreatment,525120,4270170,3,2,0,NA
+5/17/2017,MHalbur,Pretreatment,525130,4270170,4,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525140,4270170,3,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525150,4270170,2,0,0,NA
+5/17/2017,MHalbur,Pretreatment,525160,4270170,1,1,0,NA
+5/17/2017,MHalbur,Pretreatment,525170,4270170,5,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525010,4270160,5,1,1,NA
+5/19/2017,MHalbur,Pretreatment,525020,4270160,5,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525030,4270160,4,3,2,NA
+5/19/2017,MHalbur,Pretreatment,525040,4270160,4,4,0,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270160,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270160,4,1,2,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270160,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270160,1,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270160,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270160,2,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270160,3,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270160,1,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270160,5,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270160,4,4,0,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270160,2,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270160,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525170,4270160,4,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525010,4270150,4,2,2,NA
+5/19/2017,MHalbur,Pretreatment,525020,4270150,4,1,3,NA
+5/19/2017,MHalbur,Pretreatment,525030,4270150,5,2,2,NA
+5/19/2017,MHalbur,Pretreatment,525040,4270150,4,0,3,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270150,4,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270150,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270150,1,1,1,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270150,2,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270150,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270150,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270150,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270150,2,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270150,2,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270150,2,5,0,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270150,2,4,0,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270150,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525170,4270150,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525020,4270140,4,1,2,NA
+5/19/2017,MHalbur,Pretreatment,525030,4270140,5,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525040,4270140,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270140,5,0,3,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270140,4,2,1,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270140,3,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270140,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270140,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270140,1,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270140,2,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270140,3,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270140,0,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270140,3,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270140,2,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270140,5,1,0,NA
+5/19/2017,MHalbur,Pretreatment,525170,4270140,1,1,2,NA
+5/19/2017,MHalbur,Pretreatment,525030,4270130,4,1,2,NA
+5/19/2017,MHalbur,Pretreatment,525040,4270130,0,1,1,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270130,0,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270130,1,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270130,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270130,4,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270130,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270130,1,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270130,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270130,1,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270130,3,4,0,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270130,4,1,0,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270130,2,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525170,4270130,1,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525040,4270120,1,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270120,0,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270120,0,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270120,1,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270120,2,1,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270120,0,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270120,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270120,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270120,2,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270120,3,1,1,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270120,4,1,1,NA
+5/19/2017,MHalbur,Pretreatment,525050,4270110,0,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270110,1,2,1,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270110,1,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270110,1,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270110,2,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270110,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270110,2,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270110,4,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270110,2,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270110,1,2,1,NA
+5/19/2017,MHalbur,Pretreatment,525060,4270100,1,2,1,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270100,0,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270100,4,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270100,3,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270100,6,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270100,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270100,4,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270100,4,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270100,2,1,1,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270090,0,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270090,0,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270090,0,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270090,6,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270090,5,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270090,6,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270090,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270090,4,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270090,5,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270090,1,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270080,0,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270080,1,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270080,5,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270080,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270080,4,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270080,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270080,4,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270080,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270080,4,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270080,3,0,3,NA
+5/19/2017,MHalbur,Pretreatment,525070,4270070,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270070,6,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270070,6,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270070,4,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270070,4,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270070,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270070,2,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270070,3,0,3,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270070,4,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270070,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270060,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270060,3,0,3,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270060,4,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270060,6,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270060,2,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270060,4,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270060,3,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270060,1,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270060,3,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525080,4270050,5,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270050,4,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270050,5,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270050,4,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270050,1,3,0,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270050,4,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270050,3,0,1,NA
+5/19/2017,MHalbur,Pretreatment,525150,4270050,5,0,2,NA
+5/19/2017,MHalbur,Pretreatment,525160,4270050,1,1,1,NA
+5/19/2017,MHalbur,Pretreatment,525090,4270040,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525100,4270040,3,0,0,NA
+5/19/2017,MHalbur,Pretreatment,525110,4270040,5,2,2,NA
+5/19/2017,MHalbur,Pretreatment,525120,4270040,1,1,1,NA
+5/19/2017,MHalbur,Pretreatment,525130,4270040,1,2,0,NA
+5/19/2017,MHalbur,Pretreatment,525140,4270040,4,0,2,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525400,4270440,1,0,1,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525410,4270440,1,0,0,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525420,4270440,1,0,1,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525430,4270440,2,0,1,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525370,4270430,1,0,2,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525380,4270430,1,0,0,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525390,4270430,1,0,0,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525400,4270430,1,0,0,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525410,4270430,1,0,0,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525420,4270430,1,0,0,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525430,4270430,1,0,1,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525440,4270430,1,0,2,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525360,4270420,3,0,1,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525370,4270420,0,0,2,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525380,4270420,0,0,0,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525390,4270420,2,0,2,NA
+5/16/2018,Celeste Dodge,Post-treatment 2018,525400,4270420,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525410,4270420,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525420,4270420,1,0,1,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525430,4270420,0,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525440,4270420,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525340,4270410,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525350,4270410,0,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525360,4270410,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525370,4270410,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525380,4270410,2,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525390,4270410,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525400,4270410,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525410,4270410,0,0,0,"area disturbed by a large area when animals have been bedding down, hard to find grasses"
+5/17/2018,Celeste Dodge,Post-treatment 2018,525420,4270410,0,0,0,"area disturbed by a large area when animals have been bedding down, hard to find grasses"
+5/17/2018,Celeste Dodge,Post-treatment 2018,525430,4270410,0,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525440,4270410,0,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525150,4270400,NA,NA,NA,missed point
+5/17/2018,Celeste Dodge,Post-treatment 2018,525160,4270400,NA,NA,NA,point not on maps
+5/17/2018,Celeste Dodge,Post-treatment 2018,525310,4270400,0,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525320,4270400,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525330,4270400,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525340,4270400,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525350,4270400,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525360,4270400,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525370,4270400,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525380,4270400,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525390,4270400,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525400,4270400,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525410,4270400,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525420,4270400,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525430,4270400,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525440,4270400,0,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270390,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270390,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270390,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270390,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270390,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270390,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270390,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270390,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270390,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270390,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270390,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270390,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270390,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270390,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270390,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270390,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525260,4270390,1,0,0,point apparently not surveyed in 2017
+5/21/2018,Celeste Dodge,Post-treatment 2018,525270,4270390,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525280,4270390,2,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525290,4270390,2,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525300,4270390,0,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525310,4270390,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525320,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525330,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525340,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525350,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525360,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525370,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525380,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525390,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525400,4270390,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525410,4270390,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525420,4270390,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525430,4270390,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525440,4270390,0,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270380,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270380,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270380,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270380,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270380,1,0,,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270380,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270380,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270380,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270380,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270380,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270380,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270380,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270380,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270380,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270380,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270380,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270380,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270380,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525210,4270380,1,0,3,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525220,4270380,1,0,4,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525230,4270380,,,,needs entry
+5/21/2018,Celeste Dodge,Post-treatment 2018,525240,4270380,1,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525250,4270380,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525260,4270380,2,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525270,4270380,1,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525280,4270380,0,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525290,4270380,0,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525300,4270380,0,0,3,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525310,4270380,0,0,4,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525320,4270380,1,0,2,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525330,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525340,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525350,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525360,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525370,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525380,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525390,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525400,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525410,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525420,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525430,4270380,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525440,4270380,1,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270370,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270370,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270370,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270370,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270370,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270370,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270370,1,0,2,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270370,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270370,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270370,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270370,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270370,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270370,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270370,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270370,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270370,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270370,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525210,4270370,1,0,3,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525220,4270370,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525230,4270370,0,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525240,4270370,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525250,4270370,1,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525260,4270370,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525270,4270370,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525280,4270370,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525290,4270370,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525300,4270370,0,0,1,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525310,4270370,0,0,2,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525320,4270370,1,0,1,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525330,4270370,0,0,3,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525340,4270370,1,0,2,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525350,4270370,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525360,4270370,2,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525370,4270370,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525380,4270370,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525390,4270370,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525400,4270370,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525410,4270370,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525420,4270370,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525430,4270370,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525440,4270370,1,0,0,NA
+5/16/2018,Mike Winters,Post-treatment 2018,525450,4270370,1,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270360,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270360,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270360,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270360,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270360,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270360,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270360,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270360,1,0,1,"On the data sheet, a 2 with a line through it is a crossed out two? Code repair done by field tech. Ask tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270360,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270360,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270360,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270360,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270360,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270360,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270360,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270360,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270360,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270360,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525210,4270360,1,0,3,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525220,4270360,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525230,4270360,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525240,4270360,2,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525250,4270360,1,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525260,4270360,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525270,4270360,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525280,4270360,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525290,4270360,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525300,4270360,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525310,4270360,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525320,4270360,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525330,4270360,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525340,4270360,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525350,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525360,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525370,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525380,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525390,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525400,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525410,4270360,2,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525420,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525430,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525440,4270360,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525450,4270360,1,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270350,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270350,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270350,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270350,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270350,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270350,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270350,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270350,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270350,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270350,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270350,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270350,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270350,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270350,1,2,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270350,2,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270350,1,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270350,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270350,0,0,3,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525210,4270350,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525220,4270350,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525230,4270350,2,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525240,4270350,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525250,4270350,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525260,4270350,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525270,4270350,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525280,4270350,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525290,4270350,0,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525300,4270350,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525310,4270350,0,2,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525320,4270350,0,2,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525330,4270350,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525340,4270350,1,0,1,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525380,4270350,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525390,4270350,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525400,4270350,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525410,4270350,1,0,1,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525420,4270350,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525430,4270350,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525440,4270350,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525450,4270350,1,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270340,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270340,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270340,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270340,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270340,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270340,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270340,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270340,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270340,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270340,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270340,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270340,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270340,1,0,3,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270340,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270340,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270340,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270340,0,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270340,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525210,4270340,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525220,4270340,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525230,4270340,0,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525240,4270340,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525250,4270340,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525260,4270340,0,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525270,4270340,0,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525280,4270340,0,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525290,4270340,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525300,4270340,0,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525310,4270340,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525320,4270340,0,2,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525330,4270340,0,0,3,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525420,4270340,1,0,0,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525430,4270340,2,0,2,NA
+5/17/2018,Celeste Dodge,Post-treatment 2018,525440,4270340,1,0,2,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270330,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270330,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270330,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270330,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270330,0,0,3,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270330,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270330,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270330,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270330,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270330,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270330,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270330,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270330,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270330,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525210,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525220,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525230,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525240,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525250,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525260,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525270,4270330,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525280,4270330,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525290,4270330,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525300,4270330,0,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270320,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270320,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270320,0,0,1,"On the data sheet, a 2 with a line through it is a crossed out two? Code repair done by field tech. Ask tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270320,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270320,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270320,1,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270320,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270320,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270320,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270320,1,0,3,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270320,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270320,0,0,0,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270320,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270320,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270320,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270320,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270320,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270320,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525210,4270320,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525220,4270320,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525230,4270320,2,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525240,4270320,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525250,4270320,2,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525260,4270320,1,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270310,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270310,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270310,0,0,4,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270310,0,0,3,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270310,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270310,1,0,2,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270310,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270310,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270310,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270310,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270310,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270310,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270310,0,0,,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270310,0,0,,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270310,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270310,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270310,2,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270310,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525210,4270310,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525220,4270310,1,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270300,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270300,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270300,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270300,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270300,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270300,1,0,2,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270300,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270300,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270300,1,0,2,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270300,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270300,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270300,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270300,1,0,2,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270300,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270300,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270300,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270300,1,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525200,4270300,0,0,0,NA
+5/21/2018,Steven Hammerich,Post-treatment 2018,525030,4270290,1,0,2,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525040,4270290,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525050,4270290,0,0,4,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525060,4270290,0,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525070,4270290,0,0,2,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525080,4270290,2,0,2,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525090,4270290,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525100,4270290,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525110,4270290,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525120,4270290,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525130,4270290,1,0,1,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Steven Hammerich,Post-treatment 2018,525140,4270290,1,0,2,"On the data sheet, a 0 with a slash through it is a crossed out zero. Code repair done by field tech."
+5/21/2018,Celeste Dodge,Post-treatment 2018,525150,4270290,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525160,4270290,0,0,0,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525170,4270290,0,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525180,4270290,1,0,1,NA
+5/21/2018,Celeste Dodge,Post-treatment 2018,525190,4270290,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270280,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270280,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270280,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270280,2,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270280,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270280,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270280,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270280,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270280,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270280,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270280,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270280,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270280,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270280,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270280,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270280,2,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525190,4270280,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270270,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270270,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270270,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270270,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270270,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270270,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270270,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270270,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270270,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270270,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270270,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270270,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270270,0,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270270,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270270,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270270,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525190,4270270,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270260,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270260,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270260,2,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270260,0,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270260,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270260,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270260,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270260,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270260,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270260,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270260,1,1,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270260,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270260,0,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270260,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270260,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270260,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525190,4270260,2,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270250,2,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270250,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270250,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270250,2,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270250,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270250,0,1,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270250,1,0,4,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270250,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270250,1,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270250,3,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270250,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270250,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270250,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270250,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270250,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270250,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525190,4270250,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270240,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270240,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270240,2,0,3,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270240,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270240,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270240,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270240,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270240,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270240,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270240,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270240,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270240,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270240,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270240,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270240,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270240,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525190,4270240,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525200,4270240,2,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270230,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270230,0,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270230,1,1,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270230,2,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270230,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270230,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270230,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270230,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270230,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270230,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270230,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270230,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270230,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270230,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270230,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270230,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525190,4270230,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270220,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270220,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270220,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270220,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270220,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270220,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270220,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270220,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270220,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270220,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270220,0,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270220,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270220,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270220,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270220,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270220,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525190,4270220,2,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270210,0,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270210,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270210,2,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270210,2,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270210,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270210,1,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270210,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270210,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270210,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270210,0,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270210,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270210,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270210,3,1,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270210,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270210,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270210,2,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270200,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270200,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270200,2,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270200,1,0,3,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270200,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270200,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270200,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270200,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270200,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270200,1,1,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270200,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270200,3,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270200,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270200,NA,NA,NA,"under oak, grass cover not measured"
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270200,NA,NA,NA,"under oak, grass cover not measured"
+5/21/2018,Dfriedfel,Post-treatment 2018,525180,4270200,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525020,4270190,2,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270190,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270190,1,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270190,2,0,3,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270190,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270190,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270190,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270190,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270190,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270190,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270190,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270190,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270190,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270190,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525020,4270180,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270180,1,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270180,1,0,3,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270180,2,0,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270180,2,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270180,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270180,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270180,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270180,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270180,4,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270180,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270180,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270180,1,1,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270180,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270180,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270180,0,1,2,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525020,4270170,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525030,4270170,2,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525040,4270170,2,0,1,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525050,4270170,2,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525060,4270170,1,0,0,NA
+5/21/2018,Sonja Barringer,Post-treatment 2018,525070,4270170,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270170,3,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270170,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270170,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270170,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270170,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270170,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270170,0,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270170,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270170,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270170,3,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525010,4270160,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525020,4270160,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525030,4270160,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525040,4270160,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525050,4270160,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525060,4270160,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525070,4270160,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270160,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270160,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270160,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270160,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270160,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270160,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270160,1,1,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270160,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270160,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270160,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525010,4270150,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525020,4270150,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525030,4270150,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525040,4270150,1,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525050,4270150,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525060,4270150,3,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525070,4270150,0,1,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270150,2,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270150,2,0,4,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270150,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270150,1,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270150,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270150,2,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270150,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270150,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270150,3,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270150,3,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525020,4270140,3,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525030,4270140,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525040,4270140,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525050,4270140,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525060,4270140,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525070,4270140,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270140,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270140,1,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270140,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270140,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270140,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270140,0,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270140,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270140,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270140,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270140,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525030,4270130,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525040,4270130,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525050,4270130,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525060,4270130,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525070,4270130,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270130,1,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270130,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270130,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270130,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270130,1,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270130,2,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270130,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270130,1,2,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525170,4270130,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525040,4270120,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525050,4270120,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525060,4270120,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525070,4270120,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270120,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270120,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270120,3,1,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270120,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270120,0,1,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270120,1,1,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270120,2,1,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525050,4270110,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525060,4270110,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270110,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270110,0,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270110,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270110,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270110,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270110,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270110,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270110,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525060,4270100,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270100,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270100,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270100,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270100,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270100,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270100,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270100,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270100,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525070,4270090,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270090,0,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270090,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270090,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270090,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270090,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270090,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270090,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270090,3,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270090,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525070,4270080,0,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270080,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270080,3,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270080,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270080,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270080,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270080,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270080,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270080,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270080,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525070,4270070,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270070,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270070,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270070,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270070,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270070,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270070,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270070,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270070,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270070,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270060,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270060,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270060,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270060,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270060,1,1,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270060,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270060,2,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270060,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270060,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525080,4270050,2,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270050,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270050,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270050,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270050,1,1,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270050,1,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270050,3,0,1,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270050,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525160,4270050,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525090,4270040,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525100,4270040,1,0,0,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525110,4270040,1,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525120,4270040,1,0,3,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525130,4270040,2,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525140,4270040,0,0,2,NA
+5/21/2018,Dfriedfel,Post-treatment 2018,525150,4270040,2,0,1,point apparently missing from 2017 survey
